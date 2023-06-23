@@ -1,0 +1,56 @@
+[
+  {
+    "nome": "Croissant Chocolate",
+    "foto": "/assets/croissant.jpg",
+    "valor": 16.70,
+    "id": "1"
+  },
+  {
+    "nome": "Cappuccino",
+    "foto": "/assets/cappuccino.jpg",
+    "valor": 10.99,
+    "id": "2"
+  },
+  {
+    "nome": "Pão de Queijo",
+    "foto": "/assets/pao-de-queijo.jpg",
+    "valor": 13.80,
+    "id": "3"
+  },
+  {
+    "nome": "Chocolate Quente",
+    "foto": "/assets/choc-quente.jpg",
+    "valor": 11.99,
+    "id": "4"
+  },
+  {
+    "nome": "Café com Leite",
+    "foto": "/assets/cafe-com-leite.jpg",
+    "valor": 6.50,
+    "id": "5"
+  },
+  {
+    "nome": "Waffles",
+    "foto": "/assets/waffle.jpg",
+    "valor": 15.80,
+    "id": "6"
+  },
+  {
+    "nome": "Sonho",
+    "foto": "/assets/sonho.jpg",
+    "valor": 3.90,
+    "id": "7"
+  },
+  {
+    "nome": "Pudim",
+    "foto": "/assets/pudim.jpg",
+    "valor": 7.00,
+    "id": "8"
+  },
+  {
+    "nome": "Torta Sardinha",
+    "foto": "/assets/torta-sardinha.jpg",
+    "valor": 5.00,
+    "id": "9"
+  }
+]

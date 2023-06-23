@@ -1,0 +1,20 @@
+:root {
+  --bege-claro: rgba(227, 179, 144, 0.42);
+  --bege-medio: rgba(173, 110, 47, 1);
+  --bege-escuro: rgba(158, 83, 8, 1);
+  --cinza-medio: rgba(89, 89, 89, 1);
+  --vermelho: rgba(190, 0, 0, 1);
+  --verde-escuro: rgba(32, 115, 3, 1);
+  --fonte-cor-padrao: rgb(48, 48, 48);
+  --fonte-padrao: 'Montserrat', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: var(--fonte-padrao);
+  outline: none;
+}

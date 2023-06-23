@@ -1,0 +1,21 @@
+.carrossel_container {
+    background-color: var(--bege-medio);
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+
+.carrossel {
+    display: flex;
+    text-align: center;
+    padding: 15px;
+
+    img {
+        width: 100%;
+        border-radius: 8px;
+    }
+
+    p {
+        color: white;
+        padding-top: 10px;
+    }
+}

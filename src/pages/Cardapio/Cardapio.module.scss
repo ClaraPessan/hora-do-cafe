@@ -1,0 +1,17 @@
+.cardapio {
+    display: flex;
+    justify-content: center;    
+    margin: 2rem 0;
+
+    &__informacoes {
+        margin: 1rem;
+        display: flex;
+        justify-content: space-between;
+
+        p {
+            color: var(--fonte-cor-padrao);
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+    }
+}

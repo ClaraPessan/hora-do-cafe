@@ -1,0 +1,19 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    margin: 2rem 0;
+
+    &__container_form {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    &__form {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+}
